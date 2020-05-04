@@ -1,4 +1,4 @@
-# Michal_Daniel_Cash_Register
+# Cash_Register
 Program which simulate work of cash register.
 It allows to:
 - View and edit list of products
